@@ -50,8 +50,7 @@ RegisterNumber:  212223040179
 ```
 
 ## Output:
-![Screenshot 2024-02-22 084844](https://github.com/rakshithaprakashkumar11/Find-the-best-fit-line-using-Least-Squares-Method/assets/150994181/bd38b0eb-2b9f-4699-b36b-ce686c63e650)
-![image](https://github.com/rakshithaprakashkumar11/Find-the-best-fit-line-using-Least-Squares-Method/assets/150994181/f355297e-3c8f-4988-aa6c-0d103f78ccdc)
+![image](https://github.com/NyomX/Find-the-best-fit-line-using-Least-Squares-Method/assets/145953580/b530276f-f80f-4348-b2f1-bd7be5e5f80d)
 
 
 
